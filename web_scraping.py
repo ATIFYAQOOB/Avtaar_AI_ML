@@ -54,3 +54,4 @@ wiki(html_txt4)
 
 html_txt5 = requests.get('https://en.wikipedia.org/wiki/The_Girl_with_All_the_Gifts_(film)').text
 wiki(html_txt5)
+#This program will create a csv file having headers and info scrapped from wikipidea pages.
